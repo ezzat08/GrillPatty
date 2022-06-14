@@ -239,7 +239,7 @@ Do the following if you're using your customized build of modernizr (http://www.
         <span>Our Bun were made with the most premium ingredient. The Bun were leave overnight to create the fluffinest. Our bun were then grill until it cripst. You will get a bun that crisspy on the outside but soft in the inside. It will melt in your mouth.</span>
       </div><!--bunDesc-->
       
-<div id="patty"><img src="image/patty.jpg" alt="Patty" width="199" height="168" style="border:3.5px solid #CCC; padding:4px; "></div><!--patty-->
+<div id="patty"><img src="image/Patty.jpg" alt="Patty" width="199" height="168" style="border:3.5px solid #CCC; padding:4px; "></div><!--patty-->
 <div id="pattyDesc"><h2>Homemade Patty</h2>
   Only the exclusive meat from a well-known butcher were selected to be use in our patty. We take pride in our patty as known as the most juicy and flavourfull patty. Feel out of the world flavour that you never try before.
 </div><!--pattyDesc-->
